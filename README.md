@@ -1,6 +1,7 @@
+## I am way too obsessed with Everforest. Currently doing fun Rust things <|:3
+
 ![foggy_valley_2](https://github.com/Vanta1/Vanta1/assets/61921731/d13baf2f-970f-4320-b166-e04101212873)
 
-# I am way too obsessed with Everforest. Currently doing fun Rust things <|:3
-
+<!-- Weird hacky css injection. sorry if this makes my profile annoying to look at -->
 ```math
 \ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/Vanta1/Vanta1/blob/main/circuit_2.png?raw=true');]{x0000}$}
