@@ -1,6 +1,8 @@
-## I am way too obsessed with Everforest. Currently doing fun Rust things <|:3
+## I am way too obsessed with Everforest and Uni. Currently doing fun Rust things <|:3
 
-![foggy_valley_2](https://github.com/Vanta1/Vanta1/assets/61921731/d13baf2f-970f-4320-b166-e04101212873)
+![uni_the_cat](https://github.com/Vanta1/Vanta1/blob/2b11416bc1a65bfd4b327bb35f7d8d54aed9756d/GRh-WGcb0AIb87E.jpg)
+
+pic fromn [@unicouniuni3](https://twitter.com/unicouniuni3)
 
 <!-- Weird hacky css injection. sorry if this makes my profile annoying to look at
 
